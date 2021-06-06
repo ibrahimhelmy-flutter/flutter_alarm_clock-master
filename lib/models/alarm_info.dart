@@ -26,4 +26,8 @@ class AlarmInfo {
         "isPending": isPending,
         "gradientColorIndex": gradientColorIndex,
       };
+      //////
+      ///
+      ///
+      ///
 }
